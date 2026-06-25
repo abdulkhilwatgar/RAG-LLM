@@ -1,0 +1,1682 @@
+[
+  {
+    "text": "Weekly health summary for 2017-W13 (2017-03-30 to 2017-04-02), covering 4 days: Total steps: 10,019 (avg 2,505/day).",
+    "type": "weekly",
+    "date": "2017-03-30"
+  },
+  {
+    "text": "Weekly health summary for 2017-W14 (2017-04-03 to 2017-04-09), covering 7 days: Total steps: 18,680 (avg 2,669/day).",
+    "type": "weekly",
+    "date": "2017-04-03"
+  },
+  {
+    "text": "Weekly health summary for 2017-W15 (2017-04-10 to 2017-04-16), covering 7 days: Total steps: 11,572 (avg 1,653/day).",
+    "type": "weekly",
+    "date": "2017-04-10"
+  },
+  {
+    "text": "Weekly health summary for 2017-W16 (2017-04-17 to 2017-04-23), covering 7 days: Total steps: 14,407 (avg 2,058/day).",
+    "type": "weekly",
+    "date": "2017-04-17"
+  },
+  {
+    "text": "Weekly health summary for 2017-W17 (2017-04-24 to 2017-04-30), covering 7 days: Total steps: 12,870 (avg 1,839/day).",
+    "type": "weekly",
+    "date": "2017-04-24"
+  },
+  {
+    "text": "Weekly health summary for 2017-W18 (2017-05-01 to 2017-05-07), covering 7 days: Total steps: 11,432 (avg 1,633/day).",
+    "type": "weekly",
+    "date": "2017-05-01"
+  },
+  {
+    "text": "Weekly health summary for 2017-W19 (2017-05-08 to 2017-05-14), covering 7 days: Total steps: 9,784 (avg 1,398/day).",
+    "type": "weekly",
+    "date": "2017-05-08"
+  },
+  {
+    "text": "Weekly health summary for 2017-W20 (2017-05-15 to 2017-05-21), covering 7 days: Total steps: 11,089 (avg 1,584/day).",
+    "type": "weekly",
+    "date": "2017-05-15"
+  },
+  {
+    "text": "Weekly health summary for 2017-W21 (2017-05-22 to 2017-05-28), covering 7 days: Total steps: 11,012 (avg 1,573/day).",
+    "type": "weekly",
+    "date": "2017-05-22"
+  },
+  {
+    "text": "Weekly health summary for 2017-W22 (2017-05-29 to 2017-06-04), covering 7 days: Total steps: 14,644 (avg 2,092/day).",
+    "type": "weekly",
+    "date": "2017-05-29"
+  },
+  {
+    "text": "Weekly health summary for 2017-W23 (2017-06-05 to 2017-06-11), covering 7 days: Total steps: 11,655 (avg 1,665/day).",
+    "type": "weekly",
+    "date": "2017-06-05"
+  },
+  {
+    "text": "Weekly health summary for 2017-W24 (2017-06-12 to 2017-06-18), covering 7 days: Total steps: 11,316 (avg 1,617/day).",
+    "type": "weekly",
+    "date": "2017-06-12"
+  },
+  {
+    "text": "Weekly health summary for 2017-W25 (2017-06-19 to 2017-06-25), covering 7 days: Total steps: 12,613 (avg 1,802/day).",
+    "type": "weekly",
+    "date": "2017-06-19"
+  },
+  {
+    "text": "Weekly health summary for 2017-W26 (2017-06-26 to 2017-07-02), covering 7 days: Total steps: 9,033 (avg 1,290/day).",
+    "type": "weekly",
+    "date": "2017-06-26"
+  },
+  {
+    "text": "Weekly health summary for 2017-W27 (2017-07-03 to 2017-07-09), covering 7 days: Total steps: 8,098 (avg 1,157/day).",
+    "type": "weekly",
+    "date": "2017-07-03"
+  },
+  {
+    "text": "Weekly health summary for 2017-W28 (2017-07-10 to 2017-07-16), covering 7 days: Total steps: 10,464 (avg 1,495/day).",
+    "type": "weekly",
+    "date": "2017-07-10"
+  },
+  {
+    "text": "Weekly health summary for 2017-W29 (2017-07-17 to 2017-07-23), covering 7 days: Total steps: 7,174 (avg 1,025/day).",
+    "type": "weekly",
+    "date": "2017-07-17"
+  },
+  {
+    "text": "Weekly health summary for 2017-W30 (2017-07-24 to 2017-07-30), covering 7 days: Total steps: 10,571 (avg 1,510/day).",
+    "type": "weekly",
+    "date": "2017-07-24"
+  },
+  {
+    "text": "Weekly health summary for 2017-W31 (2017-07-31 to 2017-08-06), covering 7 days: Total steps: 13,669 (avg 1,953/day).",
+    "type": "weekly",
+    "date": "2017-07-31"
+  },
+  {
+    "text": "Weekly health summary for 2017-W32 (2017-08-07 to 2017-08-13), covering 7 days: Total steps: 11,054 (avg 1,579/day).",
+    "type": "weekly",
+    "date": "2017-08-07"
+  },
+  {
+    "text": "Weekly health summary for 2017-W33 (2017-08-14 to 2017-08-20), covering 7 days: Total steps: 22,062 (avg 3,152/day).",
+    "type": "weekly",
+    "date": "2017-08-14"
+  },
+  {
+    "text": "Weekly health summary for 2017-W34 (2017-08-21 to 2017-08-27), covering 7 days: Total steps: 13,822 (avg 1,975/day).",
+    "type": "weekly",
+    "date": "2017-08-21"
+  },
+  {
+    "text": "Weekly health summary for 2017-W35 (2017-08-28 to 2017-09-03), covering 7 days: Total steps: 14,151 (avg 2,022/day).",
+    "type": "weekly",
+    "date": "2017-08-28"
+  },
+  {
+    "text": "Weekly health summary for 2017-W36 (2017-09-04 to 2017-09-10), covering 7 days: Total steps: 12,363 (avg 1,766/day).",
+    "type": "weekly",
+    "date": "2017-09-04"
+  },
+  {
+    "text": "Weekly health summary for 2017-W37 (2017-09-11 to 2017-09-17), covering 7 days: Total steps: 14,287 (avg 2,041/day).",
+    "type": "weekly",
+    "date": "2017-09-11"
+  },
+  {
+    "text": "Weekly health summary for 2017-W38 (2017-09-18 to 2017-09-24), covering 7 days: Total steps: 17,628 (avg 2,518/day).",
+    "type": "weekly",
+    "date": "2017-09-18"
+  },
+  {
+    "text": "Weekly health summary for 2017-W39 (2017-09-25 to 2017-10-01), covering 7 days: Total steps: 23,531 (avg 3,362/day).",
+    "type": "weekly",
+    "date": "2017-09-25"
+  },
+  {
+    "text": "Weekly health summary for 2017-W40 (2017-10-02 to 2017-10-08), covering 7 days: Total steps: 21,761 (avg 3,109/day).",
+    "type": "weekly",
+    "date": "2017-10-02"
+  },
+  {
+    "text": "Weekly health summary for 2017-W41 (2017-10-09 to 2017-10-15), covering 7 days: Total steps: 17,797 (avg 2,542/day).",
+    "type": "weekly",
+    "date": "2017-10-09"
+  },
+  {
+    "text": "Weekly health summary for 2017-W42 (2017-10-16 to 2017-10-22), covering 7 days: Total steps: 34,176 (avg 4,882/day).",
+    "type": "weekly",
+    "date": "2017-10-16"
+  },
+  {
+    "text": "Weekly health summary for 2017-W43 (2017-10-23 to 2017-10-29), covering 7 days: Total steps: 19,083 (avg 2,726/day).",
+    "type": "weekly",
+    "date": "2017-10-23"
+  },
+  {
+    "text": "Weekly health summary for 2017-W44 (2017-10-30 to 2017-11-05), covering 7 days: Total steps: 20,543 (avg 2,935/day).",
+    "type": "weekly",
+    "date": "2017-10-30"
+  },
+  {
+    "text": "Weekly health summary for 2017-W45 (2017-11-06 to 2017-11-12), covering 7 days: Total steps: 16,435 (avg 2,348/day).",
+    "type": "weekly",
+    "date": "2017-11-06"
+  },
+  {
+    "text": "Weekly health summary for 2017-W46 (2017-11-13 to 2017-11-19), covering 7 days: Total steps: 20,901 (avg 2,986/day).",
+    "type": "weekly",
+    "date": "2017-11-13"
+  },
+  {
+    "text": "Weekly health summary for 2017-W47 (2017-11-20 to 2017-11-26), covering 7 days: Total steps: 12,645 (avg 1,806/day).",
+    "type": "weekly",
+    "date": "2017-11-20"
+  },
+  {
+    "text": "Weekly health summary for 2017-W48 (2017-11-27 to 2017-12-03), covering 7 days: Total steps: 17,657 (avg 2,522/day).",
+    "type": "weekly",
+    "date": "2017-11-27"
+  },
+  {
+    "text": "Weekly health summary for 2017-W49 (2017-12-04 to 2017-12-10), covering 7 days: Total steps: 21,331 (avg 3,047/day).",
+    "type": "weekly",
+    "date": "2017-12-04"
+  },
+  {
+    "text": "Weekly health summary for 2017-W50 (2017-12-11 to 2017-12-17), covering 7 days: Total steps: 25,419 (avg 3,631/day).",
+    "type": "weekly",
+    "date": "2017-12-11"
+  },
+  {
+    "text": "Weekly health summary for 2017-W51 (2017-12-18 to 2017-12-24), covering 7 days: Total steps: 11,113 (avg 1,588/day).",
+    "type": "weekly",
+    "date": "2017-12-18"
+  },
+  {
+    "text": "Weekly health summary for 2017-W52 (2017-12-25 to 2017-12-31), covering 7 days: Total steps: 9,264 (avg 1,323/day).",
+    "type": "weekly",
+    "date": "2017-12-25"
+  },
+  {
+    "text": "Weekly health summary for 2018-W01 (2018-01-01 to 2018-01-07), covering 7 days: Total steps: 12,661 (avg 1,809/day).",
+    "type": "weekly",
+    "date": "2018-01-01"
+  },
+  {
+    "text": "Weekly health summary for 2018-W02 (2018-01-08 to 2018-01-14), covering 7 days: Total steps: 12,529 (avg 1,790/day).",
+    "type": "weekly",
+    "date": "2018-01-08"
+  },
+  {
+    "text": "Weekly health summary for 2018-W03 (2018-01-15 to 2018-01-21), covering 7 days: Total steps: 7,881 (avg 1,126/day).",
+    "type": "weekly",
+    "date": "2018-01-15"
+  },
+  {
+    "text": "Weekly health summary for 2018-W04 (2018-01-22 to 2018-01-28), covering 7 days: Total steps: 12,458 (avg 1,780/day).",
+    "type": "weekly",
+    "date": "2018-01-22"
+  },
+  {
+    "text": "Weekly health summary for 2018-W05 (2018-01-29 to 2018-02-04), covering 7 days: Total steps: 11,911 (avg 1,702/day).",
+    "type": "weekly",
+    "date": "2018-01-29"
+  },
+  {
+    "text": "Weekly health summary for 2018-W06 (2018-02-05 to 2018-02-11), covering 7 days: Total steps: 13,369 (avg 1,910/day).",
+    "type": "weekly",
+    "date": "2018-02-05"
+  },
+  {
+    "text": "Weekly health summary for 2018-W07 (2018-02-12 to 2018-02-18), covering 7 days: Total steps: 32,608 (avg 4,658/day).",
+    "type": "weekly",
+    "date": "2018-02-12"
+  },
+  {
+    "text": "Weekly health summary for 2018-W08 (2018-02-19 to 2018-02-25), covering 7 days: Total steps: 21,402 (avg 3,057/day).",
+    "type": "weekly",
+    "date": "2018-02-19"
+  },
+  {
+    "text": "Weekly health summary for 2018-W09 (2018-02-26 to 2018-03-04), covering 7 days: Total steps: 23,450 (avg 3,350/day).",
+    "type": "weekly",
+    "date": "2018-02-26"
+  },
+  {
+    "text": "Weekly health summary for 2018-W10 (2018-03-05 to 2018-03-11), covering 7 days: Total steps: 19,018 (avg 2,717/day).",
+    "type": "weekly",
+    "date": "2018-03-05"
+  },
+  {
+    "text": "Weekly health summary for 2018-W11 (2018-03-12 to 2018-03-18), covering 7 days: Total steps: 14,627 (avg 2,090/day).",
+    "type": "weekly",
+    "date": "2018-03-12"
+  },
+  {
+    "text": "Weekly health summary for 2018-W12 (2018-03-19 to 2018-03-25), covering 7 days: Total steps: 11,839 (avg 1,691/day).",
+    "type": "weekly",
+    "date": "2018-03-19"
+  },
+  {
+    "text": "Weekly health summary for 2018-W13 (2018-03-26 to 2018-04-01), covering 7 days: Total steps: 10,714 (avg 1,531/day).",
+    "type": "weekly",
+    "date": "2018-03-26"
+  },
+  {
+    "text": "Weekly health summary for 2018-W14 (2018-04-02 to 2018-04-08), covering 7 days: Total steps: 7,126 (avg 1,018/day).",
+    "type": "weekly",
+    "date": "2018-04-02"
+  },
+  {
+    "text": "Weekly health summary for 2018-W15 (2018-04-09 to 2018-04-15), covering 7 days: Total steps: 16,730 (avg 2,390/day).",
+    "type": "weekly",
+    "date": "2018-04-09"
+  },
+  {
+    "text": "Weekly health summary for 2018-W16 (2018-04-16 to 2018-04-22), covering 7 days: Total steps: 14,671 (avg 2,096/day).",
+    "type": "weekly",
+    "date": "2018-04-16"
+  },
+  {
+    "text": "Weekly health summary for 2018-W17 (2018-04-23 to 2018-04-29), covering 7 days: Total steps: 7,886 (avg 1,127/day).",
+    "type": "weekly",
+    "date": "2018-04-23"
+  },
+  {
+    "text": "Weekly health summary for 2018-W18 (2018-04-30 to 2018-05-06), covering 7 days: Total steps: 8,473 (avg 1,210/day).",
+    "type": "weekly",
+    "date": "2018-04-30"
+  },
+  {
+    "text": "Weekly health summary for 2018-W19 (2018-05-07 to 2018-05-13), covering 7 days: Total steps: 6,970 (avg 996/day).",
+    "type": "weekly",
+    "date": "2018-05-07"
+  },
+  {
+    "text": "Weekly health summary for 2018-W20 (2018-05-14 to 2018-05-20), covering 7 days: Total steps: 5,998 (avg 857/day).",
+    "type": "weekly",
+    "date": "2018-05-14"
+  },
+  {
+    "text": "Weekly health summary for 2018-W21 (2018-05-21 to 2018-05-27), covering 7 days: Total steps: 7,308 (avg 1,044/day).",
+    "type": "weekly",
+    "date": "2018-05-21"
+  },
+  {
+    "text": "Weekly health summary for 2018-W22 (2018-05-28 to 2018-06-03), covering 7 days: Total steps: 6,090 (avg 870/day).",
+    "type": "weekly",
+    "date": "2018-05-28"
+  },
+  {
+    "text": "Weekly health summary for 2018-W23 (2018-06-04 to 2018-06-10), covering 7 days: Total steps: 20,314 (avg 2,902/day).",
+    "type": "weekly",
+    "date": "2018-06-04"
+  },
+  {
+    "text": "Weekly health summary for 2018-W24 (2018-06-11 to 2018-06-17), covering 7 days: Total steps: 5,267 (avg 752/day).",
+    "type": "weekly",
+    "date": "2018-06-11"
+  },
+  {
+    "text": "Weekly health summary for 2018-W25 (2018-06-18 to 2018-06-24), covering 7 days: Total steps: 4,400 (avg 629/day).",
+    "type": "weekly",
+    "date": "2018-06-18"
+  },
+  {
+    "text": "Weekly health summary for 2018-W26 (2018-06-25 to 2018-07-01), covering 7 days: Total steps: 10,009 (avg 1,430/day).",
+    "type": "weekly",
+    "date": "2018-06-25"
+  },
+  {
+    "text": "Weekly health summary for 2018-W27 (2018-07-02 to 2018-07-08), covering 7 days: Total steps: 4,072 (avg 582/day).",
+    "type": "weekly",
+    "date": "2018-07-02"
+  },
+  {
+    "text": "Weekly health summary for 2018-W28 (2018-07-09 to 2018-07-15), covering 7 days: Total steps: 4,726 (avg 675/day).",
+    "type": "weekly",
+    "date": "2018-07-09"
+  },
+  {
+    "text": "Weekly health summary for 2018-W29 (2018-07-16 to 2018-07-22), covering 7 days: Total steps: 4,527 (avg 647/day).",
+    "type": "weekly",
+    "date": "2018-07-16"
+  },
+  {
+    "text": "Weekly health summary for 2018-W30 (2018-07-23 to 2018-07-29), covering 7 days: Total steps: 4,991 (avg 713/day).",
+    "type": "weekly",
+    "date": "2018-07-23"
+  },
+  {
+    "text": "Weekly health summary for 2018-W31 (2018-07-30 to 2018-08-05), covering 7 days: Total steps: 2,569 (avg 367/day).",
+    "type": "weekly",
+    "date": "2018-07-30"
+  },
+  {
+    "text": "Weekly health summary for 2018-W32 (2018-08-06 to 2018-08-12), covering 7 days: Total steps: 4,696 (avg 671/day).",
+    "type": "weekly",
+    "date": "2018-08-06"
+  },
+  {
+    "text": "Weekly health summary for 2018-W33 (2018-08-13 to 2018-08-19), covering 7 days: Total steps: 13,120 (avg 1,874/day).",
+    "type": "weekly",
+    "date": "2018-08-13"
+  },
+  {
+    "text": "Weekly health summary for 2018-W34 (2018-08-20 to 2018-08-26), covering 7 days: Total steps: 8,983 (avg 1,283/day).",
+    "type": "weekly",
+    "date": "2018-08-20"
+  },
+  {
+    "text": "Weekly health summary for 2018-W35 (2018-08-27 to 2018-09-02), covering 7 days: Total steps: 6,381 (avg 912/day).",
+    "type": "weekly",
+    "date": "2018-08-27"
+  },
+  {
+    "text": "Weekly health summary for 2018-W36 (2018-09-03 to 2018-09-09), covering 7 days: Total steps: 15,892 (avg 2,270/day).",
+    "type": "weekly",
+    "date": "2018-09-03"
+  },
+  {
+    "text": "Weekly health summary for 2018-W37 (2018-09-10 to 2018-09-16), covering 7 days: Total steps: 25,668 (avg 3,667/day).",
+    "type": "weekly",
+    "date": "2018-09-10"
+  },
+  {
+    "text": "Weekly health summary for 2018-W38 (2018-09-17 to 2018-09-23), covering 7 days: Total steps: 13,357 (avg 1,908/day).",
+    "type": "weekly",
+    "date": "2018-09-17"
+  },
+  {
+    "text": "Weekly health summary for 2018-W39 (2018-09-24 to 2018-09-30), covering 7 days: Total steps: 13,009 (avg 1,858/day).",
+    "type": "weekly",
+    "date": "2018-09-24"
+  },
+  {
+    "text": "Weekly health summary for 2018-W40 (2018-10-01 to 2018-10-07), covering 7 days: Total steps: 10,164 (avg 1,452/day).",
+    "type": "weekly",
+    "date": "2018-10-01"
+  },
+  {
+    "text": "Weekly health summary for 2018-W41 (2018-10-08 to 2018-10-14), covering 7 days: Total steps: 11,409 (avg 1,630/day).",
+    "type": "weekly",
+    "date": "2018-10-08"
+  },
+  {
+    "text": "Weekly health summary for 2018-W42 (2018-10-15 to 2018-10-21), covering 7 days: Total steps: 11,154 (avg 1,593/day).",
+    "type": "weekly",
+    "date": "2018-10-15"
+  },
+  {
+    "text": "Weekly health summary for 2018-W43 (2018-10-22 to 2018-10-28), covering 7 days: Total steps: 11,313 (avg 1,616/day).",
+    "type": "weekly",
+    "date": "2018-10-22"
+  },
+  {
+    "text": "Weekly health summary for 2018-W44 (2018-10-29 to 2018-11-04), covering 7 days: Total steps: 14,999 (avg 2,143/day).",
+    "type": "weekly",
+    "date": "2018-10-29"
+  },
+  {
+    "text": "Weekly health summary for 2018-W45 (2018-11-05 to 2018-11-11), covering 7 days: Total steps: 11,867 (avg 1,695/day).",
+    "type": "weekly",
+    "date": "2018-11-05"
+  },
+  {
+    "text": "Weekly health summary for 2018-W46 (2018-11-12 to 2018-11-18), covering 7 days: Total steps: 8,446 (avg 1,207/day).",
+    "type": "weekly",
+    "date": "2018-11-12"
+  },
+  {
+    "text": "Weekly health summary for 2018-W47 (2018-11-19 to 2018-11-25), covering 7 days: Total steps: 11,534 (avg 1,648/day).",
+    "type": "weekly",
+    "date": "2018-11-19"
+  },
+  {
+    "text": "Weekly health summary for 2018-W48 (2018-11-26 to 2018-12-02), covering 7 days: Total steps: 6,972 (avg 996/day).",
+    "type": "weekly",
+    "date": "2018-11-26"
+  },
+  {
+    "text": "Weekly health summary for 2018-W49 (2018-12-03 to 2018-12-09), covering 7 days: Average resting heart rate: 82 bpm. Average HRV: 23.0 ms. Total steps: 12,769 (avg 1,824/day). Total active calories: 378 kcal (avg 54/day).",
+    "type": "weekly",
+    "date": "2018-12-03"
+  },
+  {
+    "text": "Weekly health summary for 2018-W50 (2018-12-10 to 2018-12-16), covering 7 days: Average resting heart rate: 78 bpm. Average HRV: 23.2 ms. Total steps: 23,730 (avg 3,390/day). Total active calories: 1,726 kcal (avg 247/day).",
+    "type": "weekly",
+    "date": "2018-12-10"
+  },
+  {
+    "text": "Weekly health summary for 2018-W51 (2018-12-17 to 2018-12-23), covering 7 days: Total steps: 5,525 (avg 789/day).",
+    "type": "weekly",
+    "date": "2018-12-17"
+  },
+  {
+    "text": "Weekly health summary for 2018-W52 (2018-12-24 to 2018-12-30), covering 7 days: Average resting heart rate: 80 bpm. Average HRV: 28.6 ms. Total steps: 9,623 (avg 1,375/day). Total active calories: 106 kcal (avg 15/day).",
+    "type": "weekly",
+    "date": "2018-12-24"
+  },
+  {
+    "text": "Weekly health summary for 2019-W01 (2018-12-31 to 2019-01-06), covering 7 days: Total steps: 5,994 (avg 856/day).",
+    "type": "weekly",
+    "date": "2018-12-31"
+  },
+  {
+    "text": "Weekly health summary for 2019-W02 (2019-01-07 to 2019-01-13), covering 7 days: Total steps: 3,395 (avg 485/day).",
+    "type": "weekly",
+    "date": "2019-01-07"
+  },
+  {
+    "text": "Weekly health summary for 2019-W03 (2019-01-14 to 2019-01-20), covering 7 days: Total steps: 4,748 (avg 678/day).",
+    "type": "weekly",
+    "date": "2019-01-14"
+  },
+  {
+    "text": "Weekly health summary for 2019-W04 (2019-01-21 to 2019-01-27), covering 7 days: Total steps: 6,930 (avg 990/day).",
+    "type": "weekly",
+    "date": "2019-01-21"
+  },
+  {
+    "text": "Weekly health summary for 2019-W05 (2019-01-28 to 2019-02-03), covering 7 days: Total steps: 7,563 (avg 1,080/day).",
+    "type": "weekly",
+    "date": "2019-01-28"
+  },
+  {
+    "text": "Weekly health summary for 2019-W06 (2019-02-04 to 2019-02-10), covering 7 days: Total steps: 7,837 (avg 1,120/day).",
+    "type": "weekly",
+    "date": "2019-02-04"
+  },
+  {
+    "text": "Weekly health summary for 2019-W07 (2019-02-11 to 2019-02-17), covering 7 days: Total steps: 9,115 (avg 1,302/day).",
+    "type": "weekly",
+    "date": "2019-02-11"
+  },
+  {
+    "text": "Weekly health summary for 2019-W08 (2019-02-18 to 2019-02-24), covering 7 days: Total steps: 6,708 (avg 958/day).",
+    "type": "weekly",
+    "date": "2019-02-18"
+  },
+  {
+    "text": "Weekly health summary for 2019-W09 (2019-02-25 to 2019-03-03), covering 7 days: Total steps: 38,785 (avg 5,541/day).",
+    "type": "weekly",
+    "date": "2019-02-25"
+  },
+  {
+    "text": "Weekly health summary for 2019-W10 (2019-03-04 to 2019-03-10), covering 7 days: Total steps: 27,351 (avg 3,907/day).",
+    "type": "weekly",
+    "date": "2019-03-04"
+  },
+  {
+    "text": "Weekly health summary for 2019-W11 (2019-03-11 to 2019-03-17), covering 7 days: Total steps: 20,058 (avg 2,865/day).",
+    "type": "weekly",
+    "date": "2019-03-11"
+  },
+  {
+    "text": "Weekly health summary for 2019-W12 (2019-03-18 to 2019-03-24), covering 7 days: Total steps: 18,326 (avg 2,618/day).",
+    "type": "weekly",
+    "date": "2019-03-18"
+  },
+  {
+    "text": "Weekly health summary for 2019-W13 (2019-03-25 to 2019-03-31), covering 7 days: Total steps: 15,949 (avg 2,278/day).",
+    "type": "weekly",
+    "date": "2019-03-25"
+  },
+  {
+    "text": "Weekly health summary for 2019-W14 (2019-04-01 to 2019-04-07), covering 7 days: Total steps: 15,922 (avg 2,275/day).",
+    "type": "weekly",
+    "date": "2019-04-01"
+  },
+  {
+    "text": "Weekly health summary for 2019-W15 (2019-04-08 to 2019-04-14), covering 7 days: Total steps: 16,138 (avg 2,305/day).",
+    "type": "weekly",
+    "date": "2019-04-08"
+  },
+  {
+    "text": "Weekly health summary for 2019-W16 (2019-04-15 to 2019-04-21), covering 7 days: Total steps: 20,043 (avg 2,863/day).",
+    "type": "weekly",
+    "date": "2019-04-15"
+  },
+  {
+    "text": "Weekly health summary for 2019-W17 (2019-04-22 to 2019-04-28), covering 7 days: Total steps: 19,978 (avg 2,854/day).",
+    "type": "weekly",
+    "date": "2019-04-22"
+  },
+  {
+    "text": "Weekly health summary for 2019-W18 (2019-04-29 to 2019-05-05), covering 7 days: Total steps: 21,661 (avg 3,094/day).",
+    "type": "weekly",
+    "date": "2019-04-29"
+  },
+  {
+    "text": "Weekly health summary for 2019-W19 (2019-05-06 to 2019-05-12), covering 7 days: Total steps: 30,653 (avg 4,379/day).",
+    "type": "weekly",
+    "date": "2019-05-06"
+  },
+  {
+    "text": "Weekly health summary for 2019-W20 (2019-05-13 to 2019-05-19), covering 7 days: Total steps: 11,881 (avg 1,697/day).",
+    "type": "weekly",
+    "date": "2019-05-13"
+  },
+  {
+    "text": "Weekly health summary for 2019-W21 (2019-05-20 to 2019-05-26), covering 7 days: Total steps: 9,726 (avg 1,389/day).",
+    "type": "weekly",
+    "date": "2019-05-20"
+  },
+  {
+    "text": "Weekly health summary for 2019-W22 (2019-05-27 to 2019-06-02), covering 7 days: Total steps: 34,111 (avg 4,873/day).",
+    "type": "weekly",
+    "date": "2019-05-27"
+  },
+  {
+    "text": "Weekly health summary for 2019-W23 (2019-06-03 to 2019-06-09), covering 7 days: Total steps: 20,882 (avg 2,983/day).",
+    "type": "weekly",
+    "date": "2019-06-03"
+  },
+  {
+    "text": "Weekly health summary for 2019-W24 (2019-06-10 to 2019-06-16), covering 7 days: Total steps: 21,043 (avg 3,006/day).",
+    "type": "weekly",
+    "date": "2019-06-10"
+  },
+  {
+    "text": "Weekly health summary for 2019-W25 (2019-06-17 to 2019-06-23), covering 7 days: Total steps: 22,540 (avg 3,220/day).",
+    "type": "weekly",
+    "date": "2019-06-17"
+  },
+  {
+    "text": "Weekly health summary for 2019-W26 (2019-06-24 to 2019-06-30), covering 7 days: Total steps: 16,518 (avg 2,360/day).",
+    "type": "weekly",
+    "date": "2019-06-24"
+  },
+  {
+    "text": "Weekly health summary for 2019-W27 (2019-07-01 to 2019-07-07), covering 7 days: Total steps: 16,249 (avg 2,321/day).",
+    "type": "weekly",
+    "date": "2019-07-01"
+  },
+  {
+    "text": "Weekly health summary for 2019-W28 (2019-07-08 to 2019-07-14), covering 7 days: Total steps: 11,964 (avg 1,709/day).",
+    "type": "weekly",
+    "date": "2019-07-08"
+  },
+  {
+    "text": "Weekly health summary for 2019-W29 (2019-07-15 to 2019-07-21), covering 7 days: Total steps: 17,496 (avg 2,499/day).",
+    "type": "weekly",
+    "date": "2019-07-15"
+  },
+  {
+    "text": "Weekly health summary for 2019-W30 (2019-07-22 to 2019-07-28), covering 7 days: Total steps: 13,332 (avg 1,905/day).",
+    "type": "weekly",
+    "date": "2019-07-22"
+  },
+  {
+    "text": "Weekly health summary for 2019-W31 (2019-07-29 to 2019-08-04), covering 7 days: Total steps: 19,523 (avg 2,789/day).",
+    "type": "weekly",
+    "date": "2019-07-29"
+  },
+  {
+    "text": "Weekly health summary for 2019-W32 (2019-08-05 to 2019-08-11), covering 7 days: Average resting heart rate: 69 bpm. Average HRV: 41.0 ms. Total steps: 16,992 (avg 2,427/day). Total active calories: 773 kcal (avg 110/day).",
+    "type": "weekly",
+    "date": "2019-08-05"
+  },
+  {
+    "text": "Weekly health summary for 2019-W33 (2019-08-12 to 2019-08-18), covering 7 days: Average resting heart rate: 82 bpm. Average HRV: 41.0 ms. Total steps: 29,239 (avg 4,177/day). Total active calories: 910 kcal (avg 130/day).",
+    "type": "weekly",
+    "date": "2019-08-12"
+  },
+  {
+    "text": "Weekly health summary for 2019-W34 (2019-08-19 to 2019-08-25), covering 7 days: Average resting heart rate: 60 bpm. Total steps: 18,594 (avg 2,656/day). Total active calories: 240 kcal (avg 34/day).",
+    "type": "weekly",
+    "date": "2019-08-19"
+  },
+  {
+    "text": "Weekly health summary for 2019-W35 (2019-08-26 to 2019-09-01), covering 7 days: Average resting heart rate: 74 bpm. Total steps: 18,633 (avg 2,662/day). Total active calories: 70 kcal (avg 10/day).",
+    "type": "weekly",
+    "date": "2019-08-26"
+  },
+  {
+    "text": "Weekly health summary for 2019-W36 (2019-09-02 to 2019-09-08), covering 7 days: Total steps: 19,657 (avg 2,808/day). Total active calories: 140 kcal (avg 20/day).",
+    "type": "weekly",
+    "date": "2019-09-02"
+  },
+  {
+    "text": "Weekly health summary for 2019-W37 (2019-09-09 to 2019-09-15), covering 7 days: Total steps: 25,875 (avg 3,696/day).",
+    "type": "weekly",
+    "date": "2019-09-09"
+  },
+  {
+    "text": "Weekly health summary for 2019-W38 (2019-09-16 to 2019-09-22), covering 7 days: Total steps: 14,157 (avg 2,022/day). Total active calories: 9 kcal (avg 1/day).",
+    "type": "weekly",
+    "date": "2019-09-16"
+  },
+  {
+    "text": "Weekly health summary for 2019-W39 (2019-09-23 to 2019-09-29), covering 7 days: Total steps: 19,644 (avg 2,806/day). Total active calories: 43 kcal (avg 6/day).",
+    "type": "weekly",
+    "date": "2019-09-23"
+  },
+  {
+    "text": "Weekly health summary for 2019-W40 (2019-09-30 to 2019-10-06), covering 7 days: Total steps: 17,682 (avg 2,526/day).",
+    "type": "weekly",
+    "date": "2019-09-30"
+  },
+  {
+    "text": "Weekly health summary for 2019-W41 (2019-10-07 to 2019-10-13), covering 7 days: Total steps: 33,750 (avg 4,821/day). Total active calories: 21 kcal (avg 3/day).",
+    "type": "weekly",
+    "date": "2019-10-07"
+  },
+  {
+    "text": "Weekly health summary for 2019-W42 (2019-10-14 to 2019-10-20), covering 7 days: Total steps: 23,305 (avg 3,329/day). Total active calories: 18 kcal (avg 3/day).",
+    "type": "weekly",
+    "date": "2019-10-14"
+  },
+  {
+    "text": "Weekly health summary for 2019-W43 (2019-10-21 to 2019-10-27), covering 7 days: Total steps: 28,226 (avg 4,032/day).",
+    "type": "weekly",
+    "date": "2019-10-21"
+  },
+  {
+    "text": "Weekly health summary for 2019-W44 (2019-10-28 to 2019-11-03), covering 7 days: Total steps: 31,336 (avg 4,477/day).",
+    "type": "weekly",
+    "date": "2019-10-28"
+  },
+  {
+    "text": "Weekly health summary for 2019-W45 (2019-11-04 to 2019-11-10), covering 7 days: Total steps: 26,951 (avg 3,850/day).",
+    "type": "weekly",
+    "date": "2019-11-04"
+  },
+  {
+    "text": "Weekly health summary for 2019-W46 (2019-11-11 to 2019-11-17), covering 7 days: Total steps: 28,055 (avg 4,008/day).",
+    "type": "weekly",
+    "date": "2019-11-11"
+  },
+  {
+    "text": "Weekly health summary for 2019-W47 (2019-11-18 to 2019-11-24), covering 7 days: Total steps: 23,290 (avg 3,327/day).",
+    "type": "weekly",
+    "date": "2019-11-18"
+  },
+  {
+    "text": "Weekly health summary for 2019-W48 (2019-11-25 to 2019-12-01), covering 7 days: Total steps: 19,028 (avg 2,718/day).",
+    "type": "weekly",
+    "date": "2019-11-25"
+  },
+  {
+    "text": "Weekly health summary for 2019-W49 (2019-12-02 to 2019-12-08), covering 7 days: Total steps: 22,476 (avg 3,211/day).",
+    "type": "weekly",
+    "date": "2019-12-02"
+  },
+  {
+    "text": "Weekly health summary for 2019-W50 (2019-12-09 to 2019-12-15), covering 7 days: Total steps: 19,577 (avg 2,797/day).",
+    "type": "weekly",
+    "date": "2019-12-09"
+  },
+  {
+    "text": "Weekly health summary for 2019-W51 (2019-12-16 to 2019-12-22), covering 7 days: Total steps: 21,599 (avg 3,086/day).",
+    "type": "weekly",
+    "date": "2019-12-16"
+  },
+  {
+    "text": "Weekly health summary for 2019-W52 (2019-12-23 to 2019-12-29), covering 7 days: Total steps: 12,702 (avg 1,815/day).",
+    "type": "weekly",
+    "date": "2019-12-23"
+  },
+  {
+    "text": "Weekly health summary for 2020-W01 (2019-12-30 to 2020-01-05), covering 7 days: Total steps: 18,268 (avg 2,610/day).",
+    "type": "weekly",
+    "date": "2019-12-30"
+  },
+  {
+    "text": "Weekly health summary for 2020-W02 (2020-01-06 to 2020-01-12), covering 7 days: Total steps: 17,575 (avg 2,511/day).",
+    "type": "weekly",
+    "date": "2020-01-06"
+  },
+  {
+    "text": "Weekly health summary for 2020-W03 (2020-01-13 to 2020-01-19), covering 7 days: Total steps: 21,813 (avg 3,116/day).",
+    "type": "weekly",
+    "date": "2020-01-13"
+  },
+  {
+    "text": "Weekly health summary for 2020-W04 (2020-01-20 to 2020-01-26), covering 7 days: Total steps: 21,626 (avg 3,089/day).",
+    "type": "weekly",
+    "date": "2020-01-20"
+  },
+  {
+    "text": "Weekly health summary for 2020-W05 (2020-01-27 to 2020-02-02), covering 7 days: Total steps: 14,783 (avg 2,112/day).",
+    "type": "weekly",
+    "date": "2020-01-27"
+  },
+  {
+    "text": "Weekly health summary for 2020-W06 (2020-02-03 to 2020-02-09), covering 7 days: Total steps: 15,139 (avg 2,163/day).",
+    "type": "weekly",
+    "date": "2020-02-03"
+  },
+  {
+    "text": "Weekly health summary for 2020-W07 (2020-02-10 to 2020-02-16), covering 7 days: Average resting heart rate: 57 bpm. Average HRV: 55.7 ms. Total steps: 40,385 (avg 5,769/day). Total active calories: 1,301 kcal (avg 186/day).",
+    "type": "weekly",
+    "date": "2020-02-10"
+  },
+  {
+    "text": "Weekly health summary for 2020-W08 (2020-02-17 to 2020-02-23), covering 7 days: Average resting heart rate: 60 bpm. Average HRV: 33.5 ms. Total steps: 43,713 (avg 6,245/day). Total active calories: 1,261 kcal (avg 180/day).",
+    "type": "weekly",
+    "date": "2020-02-17"
+  },
+  {
+    "text": "Weekly health summary for 2020-W09 (2020-02-24 to 2020-03-01), covering 7 days: Average resting heart rate: 59 bpm. Average HRV: 38.8 ms. Total steps: 40,029 (avg 5,718/day). Total active calories: 965 kcal (avg 138/day).",
+    "type": "weekly",
+    "date": "2020-02-24"
+  },
+  {
+    "text": "Weekly health summary for 2020-W10 (2020-03-02 to 2020-03-08), covering 7 days: Average resting heart rate: 67 bpm. Average HRV: 46.7 ms. Total steps: 34,786 (avg 4,969/day). Total active calories: 794 kcal (avg 113/day).",
+    "type": "weekly",
+    "date": "2020-03-02"
+  },
+  {
+    "text": "Weekly health summary for 2020-W11 (2020-03-09 to 2020-03-15), covering 7 days: Average resting heart rate: 66 bpm. Average HRV: 45.3 ms. Total steps: 36,796 (avg 5,257/day). Total active calories: 544 kcal (avg 78/day).",
+    "type": "weekly",
+    "date": "2020-03-09"
+  },
+  {
+    "text": "Weekly health summary for 2020-W12 (2020-03-16 to 2020-03-22), covering 7 days: Average HRV: 38.2 ms. Total steps: 13,143 (avg 1,878/day). Total active calories: 21 kcal (avg 3/day).",
+    "type": "weekly",
+    "date": "2020-03-16"
+  },
+  {
+    "text": "Weekly health summary for 2020-W13 (2020-03-23 to 2020-03-29), covering 7 days: Total steps: 14,992 (avg 2,142/day).",
+    "type": "weekly",
+    "date": "2020-03-23"
+  },
+  {
+    "text": "Weekly health summary for 2020-W14 (2020-03-30 to 2020-04-05), covering 7 days: Average HRV: 54.0 ms. Total steps: 17,455 (avg 2,494/day). Total active calories: 568 kcal (avg 81/day).",
+    "type": "weekly",
+    "date": "2020-03-30"
+  },
+  {
+    "text": "Weekly health summary for 2020-W15 (2020-04-06 to 2020-04-12), covering 7 days: Total steps: 13,635 (avg 1,948/day). Total active calories: 120 kcal (avg 17/day).",
+    "type": "weekly",
+    "date": "2020-04-06"
+  },
+  {
+    "text": "Weekly health summary for 2020-W16 (2020-04-13 to 2020-04-19), covering 7 days: Total steps: 11,697 (avg 1,671/day). Total active calories: 12 kcal (avg 2/day).",
+    "type": "weekly",
+    "date": "2020-04-13"
+  },
+  {
+    "text": "Weekly health summary for 2020-W17 (2020-04-20 to 2020-04-26), covering 7 days: Total steps: 24,009 (avg 3,430/day). Total active calories: 754 kcal (avg 108/day).",
+    "type": "weekly",
+    "date": "2020-04-20"
+  },
+  {
+    "text": "Weekly health summary for 2020-W18 (2020-04-27 to 2020-05-03), covering 7 days: Total steps: 20,086 (avg 2,869/day). Total active calories: 359 kcal (avg 51/day).",
+    "type": "weekly",
+    "date": "2020-04-27"
+  },
+  {
+    "text": "Weekly health summary for 2020-W19 (2020-05-04 to 2020-05-10), covering 7 days: Total steps: 20,449 (avg 2,921/day). Total active calories: 130 kcal (avg 19/day).",
+    "type": "weekly",
+    "date": "2020-05-04"
+  },
+  {
+    "text": "Weekly health summary for 2020-W20 (2020-05-11 to 2020-05-17), covering 7 days: Total steps: 16,590 (avg 2,370/day).",
+    "type": "weekly",
+    "date": "2020-05-11"
+  },
+  {
+    "text": "Weekly health summary for 2020-W21 (2020-05-18 to 2020-05-24), covering 7 days: Total steps: 8,138 (avg 1,163/day). Total active calories: 9 kcal (avg 1/day).",
+    "type": "weekly",
+    "date": "2020-05-18"
+  },
+  {
+    "text": "Weekly health summary for 2020-W22 (2020-05-25 to 2020-05-31), covering 7 days: Total steps: 8,973 (avg 1,282/day). Total active calories: 45 kcal (avg 6/day).",
+    "type": "weekly",
+    "date": "2020-05-25"
+  },
+  {
+    "text": "Weekly health summary for 2020-W23 (2020-06-01 to 2020-06-07), covering 7 days: Total steps: 18,794 (avg 2,685/day). Total active calories: 73 kcal (avg 10/day).",
+    "type": "weekly",
+    "date": "2020-06-01"
+  },
+  {
+    "text": "Weekly health summary for 2020-W24 (2020-06-08 to 2020-06-14), covering 7 days: Total steps: 18,757 (avg 2,680/day).",
+    "type": "weekly",
+    "date": "2020-06-08"
+  },
+  {
+    "text": "Weekly health summary for 2020-W25 (2020-06-15 to 2020-06-21), covering 7 days: Total steps: 17,132 (avg 2,447/day).",
+    "type": "weekly",
+    "date": "2020-06-15"
+  },
+  {
+    "text": "Weekly health summary for 2020-W26 (2020-06-22 to 2020-06-28), covering 7 days: Total steps: 11,583 (avg 1,655/day).",
+    "type": "weekly",
+    "date": "2020-06-22"
+  },
+  {
+    "text": "Weekly health summary for 2020-W27 (2020-06-29 to 2020-07-05), covering 7 days: Total steps: 15,114 (avg 2,159/day). Total active calories: 20 kcal (avg 3/day).",
+    "type": "weekly",
+    "date": "2020-06-29"
+  },
+  {
+    "text": "Weekly health summary for 2020-W28 (2020-07-06 to 2020-07-12), covering 7 days: Total steps: 15,678 (avg 2,240/day).",
+    "type": "weekly",
+    "date": "2020-07-06"
+  },
+  {
+    "text": "Weekly health summary for 2020-W29 (2020-07-13 to 2020-07-19), covering 7 days: Total steps: 12,471 (avg 1,782/day).",
+    "type": "weekly",
+    "date": "2020-07-13"
+  },
+  {
+    "text": "Weekly health summary for 2020-W30 (2020-07-20 to 2020-07-26), covering 7 days: Total steps: 11,394 (avg 1,628/day).",
+    "type": "weekly",
+    "date": "2020-07-20"
+  },
+  {
+    "text": "Weekly health summary for 2020-W31 (2020-07-27 to 2020-08-02), covering 7 days: Total steps: 34,280 (avg 4,897/day). Total active calories: 961 kcal (avg 137/day).",
+    "type": "weekly",
+    "date": "2020-07-27"
+  },
+  {
+    "text": "Weekly health summary for 2020-W32 (2020-08-03 to 2020-08-09), covering 7 days: Total steps: 27,199 (avg 3,886/day). Total active calories: 420 kcal (avg 60/day).",
+    "type": "weekly",
+    "date": "2020-08-03"
+  },
+  {
+    "text": "Weekly health summary for 2020-W33 (2020-08-10 to 2020-08-16), covering 7 days: Total steps: 20,663 (avg 2,952/day). Total active calories: 2 kcal (avg 0/day).",
+    "type": "weekly",
+    "date": "2020-08-10"
+  },
+  {
+    "text": "Weekly health summary for 2020-W34 (2020-08-17 to 2020-08-23), covering 7 days: Total steps: 14,646 (avg 2,092/day).",
+    "type": "weekly",
+    "date": "2020-08-17"
+  },
+  {
+    "text": "Weekly health summary for 2020-W35 (2020-08-24 to 2020-08-30), covering 7 days: Total steps: 21,756 (avg 3,108/day).",
+    "type": "weekly",
+    "date": "2020-08-24"
+  },
+  {
+    "text": "Weekly health summary for 2020-W36 (2020-08-31 to 2020-09-06), covering 7 days: Total steps: 8,545 (avg 1,221/day). Total active calories: 140 kcal (avg 20/day).",
+    "type": "weekly",
+    "date": "2020-08-31"
+  },
+  {
+    "text": "Weekly health summary for 2020-W37 (2020-09-07 to 2020-09-13), covering 7 days: Total steps: 13,851 (avg 1,979/day). Total active calories: 11 kcal (avg 2/day).",
+    "type": "weekly",
+    "date": "2020-09-07"
+  },
+  {
+    "text": "Weekly health summary for 2020-W38 (2020-09-14 to 2020-09-20), covering 7 days: Total steps: 24,117 (avg 3,445/day).",
+    "type": "weekly",
+    "date": "2020-09-14"
+  },
+  {
+    "text": "Weekly health summary for 2020-W39 (2020-09-21 to 2020-09-27), covering 7 days: Total steps: 21,197 (avg 3,028/day).",
+    "type": "weekly",
+    "date": "2020-09-21"
+  },
+  {
+    "text": "Weekly health summary for 2020-W40 (2020-09-28 to 2020-10-04), covering 7 days: Total steps: 14,706 (avg 2,101/day).",
+    "type": "weekly",
+    "date": "2020-09-28"
+  },
+  {
+    "text": "Weekly health summary for 2020-W41 (2020-10-05 to 2020-10-11), covering 7 days: Total steps: 17,051 (avg 2,436/day).",
+    "type": "weekly",
+    "date": "2020-10-05"
+  },
+  {
+    "text": "Weekly health summary for 2020-W42 (2020-10-12 to 2020-10-18), covering 7 days: Total steps: 29,737 (avg 4,248/day). Total active calories: 113 kcal (avg 16/day).",
+    "type": "weekly",
+    "date": "2020-10-12"
+  },
+  {
+    "text": "Weekly health summary for 2020-W43 (2020-10-19 to 2020-10-25), covering 7 days: Total steps: 17,944 (avg 2,563/day). Total active calories: 112 kcal (avg 16/day).",
+    "type": "weekly",
+    "date": "2020-10-19"
+  },
+  {
+    "text": "Weekly health summary for 2020-W44 (2020-10-26 to 2020-11-01), covering 7 days: Total steps: 22,554 (avg 3,222/day).",
+    "type": "weekly",
+    "date": "2020-10-26"
+  },
+  {
+    "text": "Weekly health summary for 2020-W45 (2020-11-02 to 2020-11-08), covering 7 days: Total steps: 26,317 (avg 3,760/day).",
+    "type": "weekly",
+    "date": "2020-11-02"
+  },
+  {
+    "text": "Weekly health summary for 2020-W46 (2020-11-09 to 2020-11-15), covering 7 days: Total steps: 17,518 (avg 2,503/day).",
+    "type": "weekly",
+    "date": "2020-11-09"
+  },
+  {
+    "text": "Weekly health summary for 2020-W47 (2020-11-16 to 2020-11-22), covering 7 days: Total steps: 15,045 (avg 2,149/day).",
+    "type": "weekly",
+    "date": "2020-11-16"
+  },
+  {
+    "text": "Weekly health summary for 2020-W48 (2020-11-23 to 2020-11-29), covering 7 days: Total steps: 32,894 (avg 4,699/day).",
+    "type": "weekly",
+    "date": "2020-11-23"
+  },
+  {
+    "text": "Weekly health summary for 2020-W49 (2020-11-30 to 2020-12-06), covering 7 days: Total steps: 18,826 (avg 2,689/day).",
+    "type": "weekly",
+    "date": "2020-11-30"
+  },
+  {
+    "text": "Weekly health summary for 2020-W50 (2020-12-07 to 2020-12-13), covering 7 days: Total steps: 14,352 (avg 2,050/day).",
+    "type": "weekly",
+    "date": "2020-12-07"
+  },
+  {
+    "text": "Weekly health summary for 2020-W51 (2020-12-14 to 2020-12-20), covering 7 days: Total steps: 16,237 (avg 2,320/day).",
+    "type": "weekly",
+    "date": "2020-12-14"
+  },
+  {
+    "text": "Weekly health summary for 2020-W52 (2020-12-21 to 2020-12-27), covering 7 days: Total steps: 18,402 (avg 2,629/day).",
+    "type": "weekly",
+    "date": "2020-12-21"
+  },
+  {
+    "text": "Weekly health summary for 2020-W53 (2020-12-28 to 2021-01-03), covering 7 days: Total steps: 28,764 (avg 4,109/day).",
+    "type": "weekly",
+    "date": "2020-12-28"
+  },
+  {
+    "text": "Weekly health summary for 2021-W01 (2021-01-04 to 2021-01-10), covering 7 days: Total steps: 20,913 (avg 2,988/day).",
+    "type": "weekly",
+    "date": "2021-01-04"
+  },
+  {
+    "text": "Weekly health summary for 2021-W02 (2021-01-11 to 2021-01-17), covering 7 days: Total steps: 23,984 (avg 3,426/day).",
+    "type": "weekly",
+    "date": "2021-01-11"
+  },
+  {
+    "text": "Weekly health summary for 2021-W03 (2021-01-18 to 2021-01-24), covering 7 days: Total steps: 22,151 (avg 3,164/day).",
+    "type": "weekly",
+    "date": "2021-01-18"
+  },
+  {
+    "text": "Weekly health summary for 2021-W04 (2021-01-25 to 2021-01-31), covering 7 days: Total steps: 21,247 (avg 3,035/day).",
+    "type": "weekly",
+    "date": "2021-01-25"
+  },
+  {
+    "text": "Weekly health summary for 2021-W05 (2021-02-01 to 2021-02-07), covering 7 days: Total steps: 25,608 (avg 3,658/day).",
+    "type": "weekly",
+    "date": "2021-02-01"
+  },
+  {
+    "text": "Weekly health summary for 2021-W06 (2021-02-08 to 2021-02-14), covering 7 days: Total steps: 30,294 (avg 4,328/day).",
+    "type": "weekly",
+    "date": "2021-02-08"
+  },
+  {
+    "text": "Weekly health summary for 2021-W07 (2021-02-15 to 2021-02-21), covering 7 days: Total steps: 32,003 (avg 4,572/day).",
+    "type": "weekly",
+    "date": "2021-02-15"
+  },
+  {
+    "text": "Weekly health summary for 2021-W08 (2021-02-22 to 2021-02-28), covering 7 days: Total steps: 38,482 (avg 5,497/day).",
+    "type": "weekly",
+    "date": "2021-02-22"
+  },
+  {
+    "text": "Weekly health summary for 2021-W09 (2021-03-01 to 2021-03-07), covering 7 days: Total steps: 26,167 (avg 3,738/day).",
+    "type": "weekly",
+    "date": "2021-03-01"
+  },
+  {
+    "text": "Weekly health summary for 2021-W10 (2021-03-08 to 2021-03-14), covering 7 days: Total steps: 32,775 (avg 4,682/day).",
+    "type": "weekly",
+    "date": "2021-03-08"
+  },
+  {
+    "text": "Weekly health summary for 2021-W11 (2021-03-15 to 2021-03-21), covering 7 days: Total steps: 28,622 (avg 4,089/day).",
+    "type": "weekly",
+    "date": "2021-03-15"
+  },
+  {
+    "text": "Weekly health summary for 2021-W12 (2021-03-22 to 2021-03-28), covering 7 days: Total steps: 22,373 (avg 3,196/day).",
+    "type": "weekly",
+    "date": "2021-03-22"
+  },
+  {
+    "text": "Weekly health summary for 2021-W13 (2021-03-29 to 2021-04-04), covering 7 days: Total steps: 15,961 (avg 2,280/day).",
+    "type": "weekly",
+    "date": "2021-03-29"
+  },
+  {
+    "text": "Weekly health summary for 2021-W14 (2021-04-05 to 2021-04-11), covering 7 days: Total steps: 22,812 (avg 3,259/day).",
+    "type": "weekly",
+    "date": "2021-04-05"
+  },
+  {
+    "text": "Weekly health summary for 2021-W15 (2021-04-12 to 2021-04-18), covering 7 days: Total steps: 11,805 (avg 1,686/day).",
+    "type": "weekly",
+    "date": "2021-04-12"
+  },
+  {
+    "text": "Weekly health summary for 2021-W16 (2021-04-19 to 2021-04-25), covering 7 days: Total steps: 10,177 (avg 1,454/day).",
+    "type": "weekly",
+    "date": "2021-04-19"
+  },
+  {
+    "text": "Weekly health summary for 2021-W17 (2021-04-26 to 2021-05-02), covering 7 days: Total steps: 14,496 (avg 2,071/day).",
+    "type": "weekly",
+    "date": "2021-04-26"
+  },
+  {
+    "text": "Weekly health summary for 2021-W18 (2021-05-03 to 2021-05-09), covering 7 days: Total steps: 9,224 (avg 1,318/day).",
+    "type": "weekly",
+    "date": "2021-05-03"
+  },
+  {
+    "text": "Weekly health summary for 2021-W19 (2021-05-10 to 2021-05-16), covering 7 days: Total steps: 19,589 (avg 2,798/day).",
+    "type": "weekly",
+    "date": "2021-05-10"
+  },
+  {
+    "text": "Weekly health summary for 2021-W20 (2021-05-17 to 2021-05-23), covering 7 days: Total steps: 11,119 (avg 1,588/day).",
+    "type": "weekly",
+    "date": "2021-05-17"
+  },
+  {
+    "text": "Weekly health summary for 2021-W21 (2021-05-24 to 2021-05-30), covering 7 days: Total steps: 21,401 (avg 3,057/day).",
+    "type": "weekly",
+    "date": "2021-05-24"
+  },
+  {
+    "text": "Weekly health summary for 2021-W22 (2021-05-31 to 2021-06-06), covering 7 days: Total steps: 24,744 (avg 3,535/day).",
+    "type": "weekly",
+    "date": "2021-05-31"
+  },
+  {
+    "text": "Weekly health summary for 2021-W23 (2021-06-07 to 2021-06-13), covering 7 days: Total steps: 13,416 (avg 1,917/day).",
+    "type": "weekly",
+    "date": "2021-06-07"
+  },
+  {
+    "text": "Weekly health summary for 2021-W24 (2021-06-14 to 2021-06-20), covering 7 days: Total steps: 16,949 (avg 2,421/day).",
+    "type": "weekly",
+    "date": "2021-06-14"
+  },
+  {
+    "text": "Weekly health summary for 2021-W25 (2021-06-21 to 2021-06-27), covering 7 days: Total steps: 16,632 (avg 2,376/day).",
+    "type": "weekly",
+    "date": "2021-06-21"
+  },
+  {
+    "text": "Weekly health summary for 2021-W28 (2021-07-14 to 2021-07-18), covering 5 days: Total steps: 14,701 (avg 2,940/day).",
+    "type": "weekly",
+    "date": "2021-07-14"
+  },
+  {
+    "text": "Weekly health summary for 2021-W29 (2021-07-19 to 2021-07-25), covering 7 days: Total steps: 28,776 (avg 4,111/day).",
+    "type": "weekly",
+    "date": "2021-07-19"
+  },
+  {
+    "text": "Weekly health summary for 2021-W30 (2021-07-26 to 2021-08-01), covering 7 days: Total steps: 28,598 (avg 4,085/day).",
+    "type": "weekly",
+    "date": "2021-07-26"
+  },
+  {
+    "text": "Weekly health summary for 2021-W31 (2021-08-02 to 2021-08-08), covering 7 days: Total steps: 23,850 (avg 3,407/day).",
+    "type": "weekly",
+    "date": "2021-08-02"
+  },
+  {
+    "text": "Weekly health summary for 2021-W32 (2021-08-09 to 2021-08-15), covering 7 days: Total steps: 43,720 (avg 6,246/day).",
+    "type": "weekly",
+    "date": "2021-08-09"
+  },
+  {
+    "text": "Weekly health summary for 2021-W33 (2021-08-16 to 2021-08-22), covering 7 days: Total steps: 29,234 (avg 4,176/day).",
+    "type": "weekly",
+    "date": "2021-08-16"
+  },
+  {
+    "text": "Weekly health summary for 2021-W34 (2021-08-23 to 2021-08-29), covering 7 days: Total steps: 49,401 (avg 7,057/day).",
+    "type": "weekly",
+    "date": "2021-08-23"
+  },
+  {
+    "text": "Weekly health summary for 2021-W35 (2021-08-30 to 2021-09-05), covering 7 days: Total steps: 55,119 (avg 7,874/day).",
+    "type": "weekly",
+    "date": "2021-08-30"
+  },
+  {
+    "text": "Weekly health summary for 2021-W36 (2021-09-06 to 2021-09-12), covering 7 days: Total steps: 48,696 (avg 6,957/day).",
+    "type": "weekly",
+    "date": "2021-09-06"
+  },
+  {
+    "text": "Weekly health summary for 2021-W37 (2021-09-13 to 2021-09-19), covering 7 days: Total steps: 43,457 (avg 6,208/day).",
+    "type": "weekly",
+    "date": "2021-09-13"
+  },
+  {
+    "text": "Weekly health summary for 2021-W38 (2021-09-20 to 2021-09-26), covering 7 days: Total steps: 46,367 (avg 6,624/day).",
+    "type": "weekly",
+    "date": "2021-09-20"
+  },
+  {
+    "text": "Weekly health summary for 2021-W39 (2021-09-27 to 2021-10-03), covering 7 days: Total steps: 46,902 (avg 6,700/day).",
+    "type": "weekly",
+    "date": "2021-09-27"
+  },
+  {
+    "text": "Weekly health summary for 2021-W40 (2021-10-04 to 2021-10-08), covering 5 days: Total steps: 30,958 (avg 6,192/day).",
+    "type": "weekly",
+    "date": "2021-10-04"
+  },
+  {
+    "text": "Weekly health summary for 2024-W28 (2024-07-09 to 2024-07-14), covering 6 days: Total steps: 27,093 (avg 4,516/day). Total active calories: 609 kcal (avg 102/day).",
+    "type": "weekly",
+    "date": "2024-07-09"
+  },
+  {
+    "text": "Weekly health summary for 2024-W29 (2024-07-15 to 2024-07-21), covering 7 days: Total steps: 25,490 (avg 3,641/day). Total active calories: 659 kcal (avg 94/day).",
+    "type": "weekly",
+    "date": "2024-07-15"
+  },
+  {
+    "text": "Weekly health summary for 2024-W30 (2024-07-22 to 2024-07-28), covering 7 days: Total steps: 22,466 (avg 3,209/day). Total active calories: 453 kcal (avg 65/day).",
+    "type": "weekly",
+    "date": "2024-07-22"
+  },
+  {
+    "text": "Weekly health summary for 2024-W31 (2024-07-29 to 2024-08-04), covering 7 days: Total steps: 16,854 (avg 2,408/day). Total active calories: 272 kcal (avg 39/day).",
+    "type": "weekly",
+    "date": "2024-07-29"
+  },
+  {
+    "text": "Weekly health summary for 2024-W32 (2024-08-05 to 2024-08-11), covering 7 days: Total steps: 16,340 (avg 2,334/day). Total active calories: 244 kcal (avg 35/day).",
+    "type": "weekly",
+    "date": "2024-08-05"
+  },
+  {
+    "text": "Weekly health summary for 2024-W33 (2024-08-12 to 2024-08-18), covering 7 days: Total steps: 21,620 (avg 3,089/day). Total active calories: 860 kcal (avg 123/day).",
+    "type": "weekly",
+    "date": "2024-08-12"
+  },
+  {
+    "text": "Weekly health summary for 2024-W34 (2024-08-19 to 2024-08-25), covering 4 days: Total steps: 54,053 (avg 13,513/day). Total active calories: 1,279 kcal (avg 320/day).",
+    "type": "weekly",
+    "date": "2024-08-19"
+  },
+  {
+    "text": "Weekly health summary for 2024-W35 (2024-08-26 to 2024-09-01), covering 7 days: Total steps: 108,404 (avg 15,486/day). Total active calories: 3,597 kcal (avg 514/day).",
+    "type": "weekly",
+    "date": "2024-08-26"
+  },
+  {
+    "text": "Weekly health summary for 2024-W36 (2024-09-02 to 2024-09-08), covering 7 days: Total steps: 91,113 (avg 13,016/day). Total active calories: 2,358 kcal (avg 337/day).",
+    "type": "weekly",
+    "date": "2024-09-02"
+  },
+  {
+    "text": "Weekly health summary for 2024-W37 (2024-09-09 to 2024-09-15), covering 7 days: Total steps: 88,114 (avg 12,588/day). Total active calories: 2,562 kcal (avg 366/day).",
+    "type": "weekly",
+    "date": "2024-09-09"
+  },
+  {
+    "text": "Weekly health summary for 2024-W38 (2024-09-16 to 2024-09-22), covering 7 days: Total steps: 85,826 (avg 12,261/day). Total active calories: 2,265 kcal (avg 324/day).",
+    "type": "weekly",
+    "date": "2024-09-16"
+  },
+  {
+    "text": "Weekly health summary for 2024-W39 (2024-09-23 to 2024-09-29), covering 7 days: Total steps: 84,804 (avg 12,115/day). Total active calories: 2,148 kcal (avg 307/day).",
+    "type": "weekly",
+    "date": "2024-09-23"
+  },
+  {
+    "text": "Weekly health summary for 2024-W40 (2024-09-30 to 2024-10-06), covering 7 days: Total steps: 84,289 (avg 12,041/day). Total active calories: 2,434 kcal (avg 348/day).",
+    "type": "weekly",
+    "date": "2024-09-30"
+  },
+  {
+    "text": "Weekly health summary for 2024-W41 (2024-10-07 to 2024-10-13), covering 7 days: Total steps: 72,745 (avg 10,392/day). Total active calories: 1,949 kcal (avg 278/day).",
+    "type": "weekly",
+    "date": "2024-10-07"
+  },
+  {
+    "text": "Weekly health summary for 2024-W42 (2024-10-14 to 2024-10-20), covering 7 days: Total steps: 41,366 (avg 5,909/day). Total active calories: 1,004 kcal (avg 143/day).",
+    "type": "weekly",
+    "date": "2024-10-14"
+  },
+  {
+    "text": "Weekly health summary for 2024-W43 (2024-10-21 to 2024-10-27), covering 7 days: Total steps: 69,588 (avg 9,941/day). Total active calories: 1,963 kcal (avg 280/day).",
+    "type": "weekly",
+    "date": "2024-10-21"
+  },
+  {
+    "text": "Weekly health summary for 2024-W44 (2024-10-28 to 2024-11-03), covering 7 days: Total steps: 72,283 (avg 10,326/day). Total active calories: 1,772 kcal (avg 253/day).",
+    "type": "weekly",
+    "date": "2024-10-28"
+  },
+  {
+    "text": "Weekly health summary for 2024-W45 (2024-11-04 to 2024-11-10), covering 7 days: Total steps: 50,536 (avg 7,219/day). Total active calories: 1,350 kcal (avg 193/day).",
+    "type": "weekly",
+    "date": "2024-11-04"
+  },
+  {
+    "text": "Weekly health summary for 2024-W46 (2024-11-11 to 2024-11-17), covering 7 days: Total steps: 59,608 (avg 8,515/day). Total active calories: 1,278 kcal (avg 183/day).",
+    "type": "weekly",
+    "date": "2024-11-11"
+  },
+  {
+    "text": "Weekly health summary for 2024-W47 (2024-11-18 to 2024-11-24), covering 7 days: Total steps: 50,820 (avg 7,260/day). Total active calories: 1,055 kcal (avg 151/day).",
+    "type": "weekly",
+    "date": "2024-11-18"
+  },
+  {
+    "text": "Weekly health summary for 2024-W48 (2024-11-25 to 2024-12-01), covering 7 days: Average resting heart rate: 59 bpm. Average HRV: 57.6 ms. Total steps: 30,891 (avg 4,413/day). Total active calories: 660 kcal (avg 94/day).",
+    "type": "weekly",
+    "date": "2024-11-25"
+  },
+  {
+    "text": "Weekly health summary for 2024-W49 (2024-12-02 to 2024-12-08), covering 7 days: Average resting heart rate: 60 bpm. Average HRV: 60.0 ms. Total steps: 135,459 (avg 19,351/day). Total active calories: 3,431 kcal (avg 490/day).",
+    "type": "weekly",
+    "date": "2024-12-02"
+  },
+  {
+    "text": "Weekly health summary for 2024-W50 (2024-12-09 to 2024-12-15), covering 7 days: Average resting heart rate: 59 bpm. Average HRV: 61.5 ms. Total steps: 126,163 (avg 18,023/day). Total active calories: 3,373 kcal (avg 482/day). Average VO2 max estimate: 42.2 mL/kg/min.",
+    "type": "weekly",
+    "date": "2024-12-09"
+  },
+  {
+    "text": "Weekly health summary for 2024-W51 (2024-12-16 to 2024-12-22), covering 7 days: Average resting heart rate: 59 bpm. Average HRV: 61.4 ms. Total steps: 113,651 (avg 16,236/day). Total active calories: 3,149 kcal (avg 450/day). Average VO2 max estimate: 43.1 mL/kg/min.",
+    "type": "weekly",
+    "date": "2024-12-16"
+  },
+  {
+    "text": "Weekly health summary for 2024-W52 (2024-12-23 to 2024-12-29), covering 7 days: Average resting heart rate: 61 bpm. Average HRV: 57.5 ms. Total steps: 101,441 (avg 14,492/day). Total active calories: 2,686 kcal (avg 384/day).",
+    "type": "weekly",
+    "date": "2024-12-23"
+  },
+  {
+    "text": "Weekly health summary for 2025-W01 (2024-12-30 to 2025-01-05), covering 7 days: Average resting heart rate: 60 bpm. Average HRV: 58.9 ms. Total steps: 127,625 (avg 18,232/day). Total active calories: 3,355 kcal (avg 479/day). Average VO2 max estimate: 47.0 mL/kg/min.",
+    "type": "weekly",
+    "date": "2024-12-30"
+  },
+  {
+    "text": "Weekly health summary for 2025-W02 (2025-01-06 to 2025-01-12), covering 7 days: Average resting heart rate: 70 bpm. Average HRV: 49.4 ms. Total steps: 79,831 (avg 11,404/day). Total active calories: 2,492 kcal (avg 356/day).",
+    "type": "weekly",
+    "date": "2025-01-06"
+  },
+  {
+    "text": "Weekly health summary for 2025-W03 (2025-01-13 to 2025-01-19), covering 7 days: Average resting heart rate: 60 bpm. Average HRV: 53.7 ms. Total steps: 62,927 (avg 8,990/day). Total active calories: 1,974 kcal (avg 282/day).",
+    "type": "weekly",
+    "date": "2025-01-13"
+  },
+  {
+    "text": "Weekly health summary for 2025-W04 (2025-01-20 to 2025-01-26), covering 7 days: Average resting heart rate: 60 bpm. Average HRV: 49.9 ms. Total steps: 142,616 (avg 20,374/day). Total active calories: 3,774 kcal (avg 539/day). Average VO2 max estimate: 49.5 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-01-20"
+  },
+  {
+    "text": "Weekly health summary for 2025-W05 (2025-01-27 to 2025-02-02), covering 7 days: Average resting heart rate: 62 bpm. Average HRV: 53.2 ms. Total steps: 146,853 (avg 20,979/day). Total active calories: 4,666 kcal (avg 667/day). Average VO2 max estimate: 50.1 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-01-27"
+  },
+  {
+    "text": "Weekly health summary for 2025-W06 (2025-02-03 to 2025-02-09), covering 7 days: Average resting heart rate: 57 bpm. Average HRV: 64.2 ms. Total steps: 149,366 (avg 21,338/day). Total active calories: 4,925 kcal (avg 704/day). Average VO2 max estimate: 51.5 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-02-03"
+  },
+  {
+    "text": "Weekly health summary for 2025-W07 (2025-02-10 to 2025-02-16), covering 7 days: Average resting heart rate: 58 bpm. Average HRV: 64.0 ms. Total steps: 128,311 (avg 18,330/day). Total active calories: 4,442 kcal (avg 635/day). Average VO2 max estimate: 51.9 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-02-10"
+  },
+  {
+    "text": "Weekly health summary for 2025-W08 (2025-02-17 to 2025-02-23), covering 7 days: Average resting heart rate: 56 bpm. Average HRV: 63.0 ms. Total steps: 122,109 (avg 17,444/day). Total active calories: 4,263 kcal (avg 609/day). Average VO2 max estimate: 53.1 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-02-17"
+  },
+  {
+    "text": "Weekly health summary for 2025-W09 (2025-02-24 to 2025-03-02), covering 7 days: Average resting heart rate: 56 bpm. Average HRV: 68.7 ms. Total steps: 121,164 (avg 17,309/day). Total active calories: 3,901 kcal (avg 557/day). Average VO2 max estimate: 54.7 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-02-24"
+  },
+  {
+    "text": "Weekly health summary for 2025-W10 (2025-03-03 to 2025-03-09), covering 7 days: Average resting heart rate: 57 bpm. Average HRV: 60.2 ms. Total steps: 117,910 (avg 16,844/day). Total active calories: 3,911 kcal (avg 559/day). Average VO2 max estimate: 55.7 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-03-03"
+  },
+  {
+    "text": "Weekly health summary for 2025-W11 (2025-03-10 to 2025-03-16), covering 7 days: Average resting heart rate: 56 bpm. Average HRV: 65.2 ms. Total steps: 140,731 (avg 20,104/day). Total active calories: 3,875 kcal (avg 554/day). Average VO2 max estimate: 59.3 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-03-10"
+  },
+  {
+    "text": "Weekly health summary for 2025-W12 (2025-03-17 to 2025-03-23), covering 7 days: Average resting heart rate: 55 bpm. Average HRV: 65.8 ms. Total steps: 101,202 (avg 14,457/day). Total active calories: 2,943 kcal (avg 420/day). Average VO2 max estimate: 61.3 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-03-17"
+  },
+  {
+    "text": "Weekly health summary for 2025-W13 (2025-03-24 to 2025-03-30), covering 7 days: Average resting heart rate: 57 bpm. Average HRV: 64.2 ms. Total steps: 78,955 (avg 11,279/day). Total active calories: 2,643 kcal (avg 378/day). Average VO2 max estimate: 61.2 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-03-24"
+  },
+  {
+    "text": "Weekly health summary for 2025-W14 (2025-03-31 to 2025-04-06), covering 7 days: Average resting heart rate: 58 bpm. Average HRV: 69.1 ms. Total steps: 147,804 (avg 21,115/day). Total active calories: 4,688 kcal (avg 670/day). Average VO2 max estimate: 61.2 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-03-31"
+  },
+  {
+    "text": "Weekly health summary for 2025-W15 (2025-04-07 to 2025-04-13), covering 7 days: Average resting heart rate: 58 bpm. Average HRV: 69.6 ms. Total steps: 139,683 (avg 19,955/day). Total active calories: 4,432 kcal (avg 633/day). Average VO2 max estimate: 61.1 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-04-07"
+  },
+  {
+    "text": "Weekly health summary for 2025-W16 (2025-04-14 to 2025-04-20), covering 7 days: Average resting heart rate: 58 bpm. Average HRV: 67.5 ms. Total steps: 120,981 (avg 17,283/day). Total active calories: 3,610 kcal (avg 516/day). Average VO2 max estimate: 59.8 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-04-14"
+  },
+  {
+    "text": "Weekly health summary for 2025-W17 (2025-04-21 to 2025-04-27), covering 7 days: Average resting heart rate: 61 bpm. Average HRV: 56.8 ms. Total steps: 164,815 (avg 23,545/day). Total active calories: 4,935 kcal (avg 705/day). Average VO2 max estimate: 57.5 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-04-21"
+  },
+  {
+    "text": "Weekly health summary for 2025-W18 (2025-04-28 to 2025-05-04), covering 7 days: Average resting heart rate: 60 bpm. Average HRV: 66.9 ms. Total steps: 162,345 (avg 23,192/day). Total active calories: 4,453 kcal (avg 636/day). Average VO2 max estimate: 58.4 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-04-28"
+  },
+  {
+    "text": "Weekly health summary for 2025-W19 (2025-05-05 to 2025-05-11), covering 7 days: Average resting heart rate: 61 bpm. Average HRV: 60.7 ms. Total steps: 136,549 (avg 19,507/day). Total active calories: 4,421 kcal (avg 632/day). Average VO2 max estimate: 58.5 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-05-05"
+  },
+  {
+    "text": "Weekly health summary for 2025-W20 (2025-05-12 to 2025-05-18), covering 7 days: Average resting heart rate: 59 bpm. Average HRV: 55.5 ms. Total steps: 158,696 (avg 22,671/day). Total active calories: 4,963 kcal (avg 709/day). Average VO2 max estimate: 60.7 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-05-12"
+  },
+  {
+    "text": "Weekly health summary for 2025-W21 (2025-05-19 to 2025-05-25), covering 7 days: Average resting heart rate: 61 bpm. Average HRV: 56.5 ms. Total steps: 130,139 (avg 18,591/day). Total active calories: 3,768 kcal (avg 538/day). Average VO2 max estimate: 63.2 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-05-19"
+  },
+  {
+    "text": "Weekly health summary for 2025-W22 (2025-05-26 to 2025-06-01), covering 7 days: Average resting heart rate: 58 bpm. Average HRV: 55.5 ms. Total steps: 82,007 (avg 11,715/day). Total active calories: 2,576 kcal (avg 368/day). Average VO2 max estimate: 63.8 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-05-26"
+  },
+  {
+    "text": "Weekly health summary for 2025-W23 (2025-06-02 to 2025-06-08), covering 7 days: Average resting heart rate: 59 bpm. Average HRV: 60.5 ms. Total steps: 81,315 (avg 11,616/day). Total active calories: 2,962 kcal (avg 423/day).",
+    "type": "weekly",
+    "date": "2025-06-02"
+  },
+  {
+    "text": "Weekly health summary for 2025-W24 (2025-06-09 to 2025-06-15), covering 7 days: Average resting heart rate: 59 bpm. Average HRV: 51.8 ms. Total steps: 95,542 (avg 13,649/day). Total active calories: 3,415 kcal (avg 488/day).",
+    "type": "weekly",
+    "date": "2025-06-09"
+  },
+  {
+    "text": "Weekly health summary for 2025-W25 (2025-06-16 to 2025-06-22), covering 7 days: Average resting heart rate: 59 bpm. Average HRV: 63.5 ms. Total steps: 61,703 (avg 8,815/day). Total active calories: 2,254 kcal (avg 322/day).",
+    "type": "weekly",
+    "date": "2025-06-16"
+  },
+  {
+    "text": "Weekly health summary for 2025-W26 (2025-06-23 to 2025-06-29), covering 7 days: Average resting heart rate: 59 bpm. Average HRV: 61.1 ms. Total steps: 80,765 (avg 11,538/day). Total active calories: 2,571 kcal (avg 367/day).",
+    "type": "weekly",
+    "date": "2025-06-23"
+  },
+  {
+    "text": "Weekly health summary for 2025-W27 (2025-06-30 to 2025-07-06), covering 7 days: Average resting heart rate: 59 bpm. Average HRV: 55.3 ms. Total steps: 114,667 (avg 16,381/day). Total active calories: 3,245 kcal (avg 464/day).",
+    "type": "weekly",
+    "date": "2025-06-30"
+  },
+  {
+    "text": "Weekly health summary for 2025-W28 (2025-07-07 to 2025-07-13), covering 7 days: Average resting heart rate: 58 bpm. Average HRV: 57.9 ms. Total steps: 76,734 (avg 10,962/day). Total active calories: 2,555 kcal (avg 365/day).",
+    "type": "weekly",
+    "date": "2025-07-07"
+  },
+  {
+    "text": "Weekly health summary for 2025-W29 (2025-07-14 to 2025-07-20), covering 7 days: Average resting heart rate: 59 bpm. Average HRV: 61.9 ms. Total steps: 62,402 (avg 8,915/day). Total active calories: 2,540 kcal (avg 363/day).",
+    "type": "weekly",
+    "date": "2025-07-14"
+  },
+  {
+    "text": "Weekly health summary for 2025-W30 (2025-07-21 to 2025-07-27), covering 7 days: Average resting heart rate: 58 bpm. Average HRV: 62.3 ms. Total steps: 88,665 (avg 12,666/day). Total active calories: 3,000 kcal (avg 429/day).",
+    "type": "weekly",
+    "date": "2025-07-21"
+  },
+  {
+    "text": "Weekly health summary for 2025-W31 (2025-07-28 to 2025-08-03), covering 7 days: Average resting heart rate: 60 bpm. Average HRV: 68.0 ms. Total steps: 87,844 (avg 12,549/day). Total active calories: 3,118 kcal (avg 445/day). Average VO2 max estimate: 56.2 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-07-28"
+  },
+  {
+    "text": "Weekly health summary for 2025-W32 (2025-08-04 to 2025-08-10), covering 7 days: Average resting heart rate: 59 bpm. Average HRV: 53.6 ms. Total steps: 103,655 (avg 14,808/day). Total active calories: 3,161 kcal (avg 452/day).",
+    "type": "weekly",
+    "date": "2025-08-04"
+  },
+  {
+    "text": "Weekly health summary for 2025-W33 (2025-08-11 to 2025-08-17), covering 7 days: Average resting heart rate: 59 bpm. Average HRV: 58.1 ms. Total steps: 87,212 (avg 12,459/day). Total active calories: 2,745 kcal (avg 392/day). Average VO2 max estimate: 61.0 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-08-11"
+  },
+  {
+    "text": "Weekly health summary for 2025-W34 (2025-08-18 to 2025-08-24), covering 7 days: Average resting heart rate: 61 bpm. Average HRV: 69.4 ms. Total steps: 85,557 (avg 12,222/day). Total active calories: 2,919 kcal (avg 417/day). Average VO2 max estimate: 59.2 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-08-18"
+  },
+  {
+    "text": "Weekly health summary for 2025-W35 (2025-08-25 to 2025-08-31), covering 7 days: Average resting heart rate: 58 bpm. Average HRV: 75.2 ms. Total steps: 173,558 (avg 24,794/day). Total active calories: 4,815 kcal (avg 688/day). Average VO2 max estimate: 58.8 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-08-25"
+  },
+  {
+    "text": "Weekly health summary for 2025-W36 (2025-09-01 to 2025-09-07), covering 7 days: Average resting heart rate: 60 bpm. Average HRV: 62.2 ms. Total steps: 164,792 (avg 23,542/day). Total active calories: 4,717 kcal (avg 674/day). Average VO2 max estimate: 58.1 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-09-01"
+  },
+  {
+    "text": "Weekly health summary for 2025-W37 (2025-09-08 to 2025-09-14), covering 7 days: Average resting heart rate: 58 bpm. Average HRV: 59.9 ms. Total steps: 169,733 (avg 24,248/day). Total active calories: 5,144 kcal (avg 735/day). Average VO2 max estimate: 58.6 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-09-08"
+  },
+  {
+    "text": "Weekly health summary for 2025-W38 (2025-09-15 to 2025-09-21), covering 7 days: Average resting heart rate: 57 bpm. Average HRV: 63.8 ms. Total steps: 172,209 (avg 24,601/day). Total active calories: 4,790 kcal (avg 684/day). Average VO2 max estimate: 59.5 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-09-15"
+  },
+  {
+    "text": "Weekly health summary for 2025-W39 (2025-09-22 to 2025-09-28), covering 7 days: Average resting heart rate: 57 bpm. Average HRV: 80.2 ms. Total steps: 171,603 (avg 24,515/day). Total active calories: 4,477 kcal (avg 640/day). Average VO2 max estimate: 60.5 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-09-22"
+  },
+  {
+    "text": "Weekly health summary for 2025-W40 (2025-09-29 to 2025-10-05), covering 7 days: Average resting heart rate: 58 bpm. Average HRV: 61.0 ms. Total steps: 105,813 (avg 15,116/day). Total active calories: 2,972 kcal (avg 425/day). Average VO2 max estimate: 59.6 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-09-29"
+  },
+  {
+    "text": "Weekly health summary for 2025-W41 (2025-10-06 to 2025-10-12), covering 7 days: Average resting heart rate: 57 bpm. Average HRV: 79.0 ms. Total steps: 130,611 (avg 18,659/day). Total active calories: 3,683 kcal (avg 526/day). Average VO2 max estimate: 56.7 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-10-06"
+  },
+  {
+    "text": "Weekly health summary for 2025-W42 (2025-10-13 to 2025-10-19), covering 7 days: Average resting heart rate: 59 bpm. Average HRV: 65.9 ms. Total steps: 174,693 (avg 24,956/day). Total active calories: 4,736 kcal (avg 677/day). Average VO2 max estimate: 55.9 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-10-13"
+  },
+  {
+    "text": "Weekly health summary for 2025-W43 (2025-10-20 to 2025-10-26), covering 7 days: Average resting heart rate: 58 bpm. Average HRV: 60.3 ms. Total steps: 149,021 (avg 21,289/day). Total active calories: 3,945 kcal (avg 564/day). Average VO2 max estimate: 53.7 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-10-20"
+  },
+  {
+    "text": "Weekly health summary for 2025-W44 (2025-10-27 to 2025-11-02), covering 7 days: Average resting heart rate: 58 bpm. Average HRV: 72.1 ms. Total steps: 137,980 (avg 19,711/day). Total active calories: 3,936 kcal (avg 562/day). Average VO2 max estimate: 52.0 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-10-27"
+  },
+  {
+    "text": "Weekly health summary for 2025-W45 (2025-11-03 to 2025-11-09), covering 7 days: Average resting heart rate: 60 bpm. Average HRV: 64.4 ms. Total steps: 149,594 (avg 21,371/day). Total active calories: 4,068 kcal (avg 581/day). Average VO2 max estimate: 51.7 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-11-03"
+  },
+  {
+    "text": "Weekly health summary for 2025-W46 (2025-11-10 to 2025-11-16), covering 7 days: Average resting heart rate: 56 bpm. Average HRV: 63.5 ms. Total steps: 134,118 (avg 19,160/day). Total active calories: 3,751 kcal (avg 536/day). Average VO2 max estimate: 50.6 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-11-10"
+  },
+  {
+    "text": "Weekly health summary for 2025-W47 (2025-11-17 to 2025-11-23), covering 7 days: Average resting heart rate: 58 bpm. Average HRV: 70.0 ms. Total steps: 122,822 (avg 17,546/day). Total active calories: 3,248 kcal (avg 464/day). Average VO2 max estimate: 52.2 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-11-17"
+  },
+  {
+    "text": "Weekly health summary for 2025-W48 (2025-11-24 to 2025-11-30), covering 7 days: Average resting heart rate: 60 bpm. Average HRV: 66.9 ms. Total steps: 89,572 (avg 12,796/day). Total active calories: 2,491 kcal (avg 356/day).",
+    "type": "weekly",
+    "date": "2025-11-24"
+  },
+  {
+    "text": "Weekly health summary for 2025-W49 (2025-12-01 to 2025-12-07), covering 7 days: Average resting heart rate: 62 bpm. Average HRV: 72.5 ms. Total steps: 107,847 (avg 15,407/day). Total active calories: 2,993 kcal (avg 428/day). Average VO2 max estimate: 55.1 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-12-01"
+  },
+  {
+    "text": "Weekly health summary for 2025-W50 (2025-12-08 to 2025-12-14), covering 7 days: Average resting heart rate: 62 bpm. Average HRV: 68.8 ms. Total steps: 109,203 (avg 15,600/day). Total active calories: 3,419 kcal (avg 488/day).",
+    "type": "weekly",
+    "date": "2025-12-08"
+  },
+  {
+    "text": "Weekly health summary for 2025-W51 (2025-12-15 to 2025-12-21), covering 7 days: Average resting heart rate: 62 bpm. Average HRV: 72.4 ms. Total steps: 97,088 (avg 13,870/day). Total active calories: 2,811 kcal (avg 402/day). Average VO2 max estimate: 53.4 mL/kg/min.",
+    "type": "weekly",
+    "date": "2025-12-15"
+  },
+  {
+    "text": "Weekly health summary for 2025-W52 (2025-12-22 to 2025-12-28), covering 7 days: Average resting heart rate: 62 bpm. Average HRV: 69.7 ms. Total steps: 102,945 (avg 14,706/day). Total active calories: 3,995 kcal (avg 571/day).",
+    "type": "weekly",
+    "date": "2025-12-22"
+  },
+  {
+    "text": "Weekly health summary for 2026-W01 (2025-12-29 to 2026-01-04), covering 7 days: Average resting heart rate: 63 bpm. Average HRV: 54.6 ms. Total steps: 101,494 (avg 14,499/day). Total active calories: 4,519 kcal (avg 646/day).",
+    "type": "weekly",
+    "date": "2025-12-29"
+  },
+  {
+    "text": "Weekly health summary for 2026-W02 (2026-01-05 to 2026-01-11), covering 7 days: Average resting heart rate: 63 bpm. Average HRV: 59.1 ms. Total steps: 117,853 (avg 16,836/day). Total active calories: 4,279 kcal (avg 611/day).",
+    "type": "weekly",
+    "date": "2026-01-05"
+  },
+  {
+    "text": "Weekly health summary for 2026-W03 (2026-01-12 to 2026-01-18), covering 7 days: Average resting heart rate: 60 bpm. Average HRV: 49.4 ms. Total steps: 80,806 (avg 11,544/day). Total active calories: 3,450 kcal (avg 493/day). Average VO2 max estimate: 48.5 mL/kg/min.",
+    "type": "weekly",
+    "date": "2026-01-12"
+  },
+  {
+    "text": "Weekly health summary for 2026-W04 (2026-01-19 to 2026-01-25), covering 7 days: Average resting heart rate: 60 bpm. Average HRV: 54.4 ms. Total steps: 129,192 (avg 18,456/day). Total active calories: 4,979 kcal (avg 711/day). Average VO2 max estimate: 47.2 mL/kg/min.",
+    "type": "weekly",
+    "date": "2026-01-19"
+  },
+  {
+    "text": "Weekly health summary for 2026-W05 (2026-01-26 to 2026-02-01), covering 7 days: Average resting heart rate: 58 bpm. Average HRV: 67.0 ms. Total steps: 127,868 (avg 18,267/day). Total active calories: 4,393 kcal (avg 628/day). Average VO2 max estimate: 46.5 mL/kg/min.",
+    "type": "weekly",
+    "date": "2026-01-26"
+  },
+  {
+    "text": "Weekly health summary for 2026-W06 (2026-02-02 to 2026-02-08), covering 7 days: Average resting heart rate: 57 bpm. Average HRV: 79.3 ms. Total steps: 132,083 (avg 18,869/day). Total active calories: 4,777 kcal (avg 682/day). Average VO2 max estimate: 46.2 mL/kg/min.",
+    "type": "weekly",
+    "date": "2026-02-02"
+  },
+  {
+    "text": "Weekly health summary for 2026-W07 (2026-02-09 to 2026-02-15), covering 7 days: Average resting heart rate: 58 bpm. Average HRV: 72.1 ms. Total steps: 126,677 (avg 18,097/day). Total active calories: 4,107 kcal (avg 587/day).",
+    "type": "weekly",
+    "date": "2026-02-09"
+  },
+  {
+    "text": "Weekly health summary for 2026-W08 (2026-02-16 to 2026-02-22), covering 7 days: Average resting heart rate: 57 bpm. Average HRV: 78.6 ms. Total steps: 88,437 (avg 12,634/day). Total active calories: 3,088 kcal (avg 441/day). Average VO2 max estimate: 47.7 mL/kg/min.",
+    "type": "weekly",
+    "date": "2026-02-16"
+  },
+  {
+    "text": "Weekly health summary for 2026-W09 (2026-02-23 to 2026-03-01), covering 7 days: Average resting heart rate: 58 bpm. Average HRV: 77.0 ms. Total steps: 107,019 (avg 15,288/day). Total active calories: 4,341 kcal (avg 620/day). Average VO2 max estimate: 50.2 mL/kg/min.",
+    "type": "weekly",
+    "date": "2026-02-23"
+  },
+  {
+    "text": "Weekly health summary for 2026-W10 (2026-03-02 to 2026-03-08), covering 7 days: Average resting heart rate: 55 bpm. Average HRV: 75.0 ms. Total steps: 100,833 (avg 14,405/day). Total active calories: 3,970 kcal (avg 567/day). Average VO2 max estimate: 51.2 mL/kg/min.",
+    "type": "weekly",
+    "date": "2026-03-02"
+  },
+  {
+    "text": "Weekly health summary for 2026-W11 (2026-03-09 to 2026-03-15), covering 7 days: Average resting heart rate: 54 bpm. Average HRV: 64.2 ms. Total steps: 96,096 (avg 13,728/day). Total active calories: 3,552 kcal (avg 507/day). Average VO2 max estimate: 52.4 mL/kg/min.",
+    "type": "weekly",
+    "date": "2026-03-09"
+  },
+  {
+    "text": "Weekly health summary for 2026-W12 (2026-03-16 to 2026-03-22), covering 7 days: Average resting heart rate: 56 bpm. Average HRV: 59.6 ms. Total steps: 90,929 (avg 12,990/day). Total active calories: 2,900 kcal (avg 414/day).",
+    "type": "weekly",
+    "date": "2026-03-16"
+  },
+  {
+    "text": "Weekly health summary for 2026-W13 (2026-03-23 to 2026-03-29), covering 7 days: Average resting heart rate: 61 bpm. Average HRV: 60.3 ms. Total steps: 73,781 (avg 10,540/day). Total active calories: 2,137 kcal (avg 305/day). Average VO2 max estimate: 52.9 mL/kg/min.",
+    "type": "weekly",
+    "date": "2026-03-23"
+  },
+  {
+    "text": "Weekly health summary for 2026-W14 (2026-03-30 to 2026-04-05), covering 7 days: Average resting heart rate: 60 bpm. Average HRV: 70.0 ms. Total steps: 109,564 (avg 15,652/day). Total active calories: 3,942 kcal (avg 563/day). Average VO2 max estimate: 52.5 mL/kg/min.",
+    "type": "weekly",
+    "date": "2026-03-30"
+  },
+  {
+    "text": "Weekly health summary for 2026-W15 (2026-04-06 to 2026-04-12), covering 7 days: Average resting heart rate: 61 bpm. Average HRV: 61.6 ms. Total steps: 93,489 (avg 13,356/day). Total active calories: 3,734 kcal (avg 533/day). Average VO2 max estimate: 52.2 mL/kg/min.",
+    "type": "weekly",
+    "date": "2026-04-06"
+  },
+  {
+    "text": "Weekly health summary for 2026-W16 (2026-04-13 to 2026-04-19), covering 7 days: Average resting heart rate: 60 bpm. Average HRV: 65.1 ms. Total steps: 108,244 (avg 15,463/day). Total active calories: 3,692 kcal (avg 527/day). Average VO2 max estimate: 53.6 mL/kg/min.",
+    "type": "weekly",
+    "date": "2026-04-13"
+  },
+  {
+    "text": "Weekly health summary for 2026-W17 (2026-04-20 to 2026-04-26), covering 7 days: Average resting heart rate: 59 bpm. Average HRV: 60.6 ms. Total steps: 115,000 (avg 16,429/day). Total active calories: 3,949 kcal (avg 564/day). Average VO2 max estimate: 56.3 mL/kg/min.",
+    "type": "weekly",
+    "date": "2026-04-20"
+  },
+  {
+    "text": "Weekly health summary for 2026-W18 (2026-04-27 to 2026-05-03), covering 7 days: Average resting heart rate: 58 bpm. Average HRV: 78.9 ms. Total steps: 129,437 (avg 18,491/day). Total active calories: 4,073 kcal (avg 582/day). Average VO2 max estimate: 58.5 mL/kg/min.",
+    "type": "weekly",
+    "date": "2026-04-27"
+  },
+  {
+    "text": "Weekly health summary for 2026-W19 (2026-05-04 to 2026-05-10), covering 7 days: Average resting heart rate: 57 bpm. Average HRV: 80.1 ms. Total steps: 135,581 (avg 19,369/day). Total active calories: 4,197 kcal (avg 600/day). Average VO2 max estimate: 61.0 mL/kg/min.",
+    "type": "weekly",
+    "date": "2026-05-04"
+  },
+  {
+    "text": "Weekly health summary for 2026-W20 (2026-05-11 to 2026-05-17), covering 7 days: Average resting heart rate: 57 bpm. Average HRV: 78.9 ms. Total steps: 163,307 (avg 23,330/day). Total active calories: 4,973 kcal (avg 710/day). Average VO2 max estimate: 62.8 mL/kg/min.",
+    "type": "weekly",
+    "date": "2026-05-11"
+  },
+  {
+    "text": "Weekly health summary for 2026-W21 (2026-05-18 to 2026-05-24), covering 7 days: Average resting heart rate: 56 bpm. Average HRV: 63.5 ms. Total steps: 78,379 (avg 11,197/day). Total active calories: 2,360 kcal (avg 337/day).",
+    "type": "weekly",
+    "date": "2026-05-18"
+  },
+  {
+    "text": "Weekly health summary for 2026-W22 (2026-05-25 to 2026-05-31), covering 7 days: Average resting heart rate: 58 bpm. Average HRV: 52.7 ms. Total steps: 77,611 (avg 11,087/day). Total active calories: 2,236 kcal (avg 319/day).",
+    "type": "weekly",
+    "date": "2026-05-25"
+  },
+  {
+    "text": "Weekly health summary for 2026-W23 (2026-06-01 to 2026-06-07), covering 7 days: Average resting heart rate: 55 bpm. Average HRV: 77.9 ms. Total steps: 124,946 (avg 17,849/day). Total active calories: 4,163 kcal (avg 595/day). Average VO2 max estimate: 60.3 mL/kg/min.",
+    "type": "weekly",
+    "date": "2026-06-01"
+  },
+  {
+    "text": "Weekly health summary for 2026-W24 (2026-06-08 to 2026-06-10), covering 3 days: Average resting heart rate: 57 bpm. Average HRV: 73.6 ms. Total steps: 43,395 (avg 14,465/day). Total active calories: 1,573 kcal (avg 524/day). Average VO2 max estimate: 59.7 mL/kg/min.",
+    "type": "weekly",
+    "date": "2026-06-08"
+  }
+]
